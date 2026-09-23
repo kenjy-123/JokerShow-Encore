@@ -60,7 +60,7 @@
 
 ### Requirements
 
-- **Joker Show - Horror Escape** ([Steam](https://store.steampowered.com/app/2467790/Joker_Show__Horror_Escape/?l=english)))
+- **Joker Show - Horror Escape** ([Steam](https://store.steampowered.com/app/2467790/Joker_Show__Horror_Escape/?l=english))
 - **MelonLoader** v0.7.3+ ([melonwiki.xyz](https://melonwiki.xyz/))
 - **Windows 10/11**
 
