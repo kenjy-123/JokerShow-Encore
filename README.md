@@ -28,7 +28,7 @@
 | :--- | :--- |
 | **🎮 Player** | God Mode, Speed Hack, No Gravity, Noclip, Teleportation, Custom Controls |
 | **⏱️ Time** | Timer Overlay, Custom Color/Size, TimeScale (0x to 5x) |
-| **👹 Joker AI** | Deaf Mode, Freeze Joker, 5 Difficulty Levels |
+| **👹 Joker AI** | Deaf Mode, Freeze Joker |
 | **🛠️ Utils** | Tutorials, Code Locks, Trap Size, Interaction Distance, Item Presets, Drone Mode |
 | **👁️ ESP** | Joker ESP, Wallhack, Distance Display |
 | **🎨 Visuals** | Graphics Quality, FPS Counter, Custom FOV, Brightness |
@@ -60,7 +60,7 @@
 
 ### Requirements
 
-- **Joker Show - Horror Escape** ([Steam](https://store.steampowered.com/))
+- **Joker Show - Horror Escape** ([Steam]([https://store.steampowered.com/](https://store.steampowered.com/app/2467790/Joker_Show__Horror_Escape/?l=english)))
 - **MelonLoader** v0.7.3+ ([melonwiki.xyz](https://melonwiki.xyz/))
 - **Windows 10/11**
 
@@ -113,12 +113,13 @@ The mod supports **6 languages**:
 
 ## 🙏 Credits
 
-| Role | Name |
 | **Mod Developer** | Kenjy |
 | **Original Mod Idea** | Stylish |
 | **Original Game Developer** | Linked Squad |
 | **Engine** | MelonLoader |
 | **Framework** | .NET Framework 4.7.2 |
+
+Mod done in 2 months, thanks for everyone who will support a mod 🙏❤️
 
 ---
 
@@ -133,6 +134,6 @@ The mod supports **6 languages**:
 
 **Thank you for downloading Joker Show: Encore!** 🎪
 
-*Have fun, and watch out for the Joker!* 👹
+*Have fun :) !*
 
 </div>
