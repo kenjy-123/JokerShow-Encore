@@ -6,9 +6,9 @@
 
 **A complete horror mod for Joker Show - Horror Escape**
 
-[![GitHub release](https://img.shields.io/github/v/release/kenjy-123/Joker-show-encore?style=for-the-badge&color=red)](https://github.com/kenjy-123/Joker-show-encore/releases)
-[![GitHub downloads](https://img.shields.io/github/downloads/kenjy-123/Joker-show-encore/total?style=for-the-badge&color=orange)](https://github.com/kenjy-123/Joker-show-encore/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)](https://github.com/kenjy-123/Joker-show-encore)
+[![GitHub release](https://img.shields.io/github/v/release/kenjy-123/JokerShow-Encore?style=for-the-badge&color=red)](https://github.com/kenjy-123/JokerShow-Encore/releases)
+[![GitHub downloads](https://img.shields.io/github/downloads/kenjy-123/JokerShow-Encore/total?style=for-the-badge&color=orange)](https://github.com/kenjy-123/JokerShow-Encore/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)](https://github.com/kenjy-123/JokerShow-Encore)
 
 </div>
 
