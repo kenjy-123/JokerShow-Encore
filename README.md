@@ -113,11 +113,9 @@ The mod supports **6 languages**:
 
 ## 🙏 Credits
 
-| **Mod Developer** | Kenjy |
-| **Original Mod Idea** | Stylish |
-| **Original Game Developer** | Linked Squad |
-| **Engine** | MelonLoader |
-| **Framework** | .NET Framework 4.7.2 |
+| **Mod Developer** | Kenjy 
+| **Original Mod Idea** | Stylish 
+| **Original Game Developer** | Linked Squad 
 
 Mod done in 2 months, thanks for everyone who will support a mod 🙏❤️
 
