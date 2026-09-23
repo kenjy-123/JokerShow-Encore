@@ -1,0 +1,167 @@
+[1.0.0] - INITIAL RELEASE
+
+ADDED - CORE FEATURES
+
+Player Features
+- God Mode (Life + Joker + Traps)
+- Speed Hack (F2)
+- No Gravity (F3)
+- Noclip (F4)
+- Respawn button
+- Custom Controls (Walk, Run, Jump, Crouch, Air speeds)
+- Teleportation system (T key)
+
+Time Features
+- Timer Overlay (display on screen)
+- Custom timer color (White, Red, Green)
+- Custom timer size (12 to 48)
+- TimeScale (0x to 5x)
+
+Joker AI Features
+- Deaf Mode (Joker can't hear)
+- Freeze Joker (he can't move)
+- Real-time difficulty mod selection (Ghost, Easy, Medium, Hard, Extreme)
+
+Utility Features
+- Tutorials system (replay game tutorials)
+- Code Locks scanner (display all codes)
+- Custom Trap Size (0.1x to 5x)
+- Custom Interaction Distance (up to 50 meters)
+- Item Presets (Preset A, B, C, Random)
+- Drone Mode (free aerial view)
+
+ESP Features
+- Joker ESP (name + distance)
+- Wallhack (see through walls)
+- Distance display
+
+Visual Features
+- Graphics Quality (Ultra, High, Medium, Low, Very Low)
+- Unlimited FPS
+- FPS Counter (7 colors)
+- Custom FOV (30 to 120)
+- Custom Brightness (0 to 2)
+
+Audio Features
+- Custom Music system (.ogg / .wav support)
+- Volume, Pitch, Speed controls
+- Playlist system (order + shuffle)
+- Joker Phrases player
+
+Item Features
+- Item Scanner (34 items available)
+- Item Spawn
+- Clear Inventory
+
+Options
+- Keybinds toggle (F2-F4)
+- Tips system (76 phrases)
+- Keyboard Overlay (Small, Normal, Large)
+- Debug Info
+- Mod Information panel
+
+---
+
+ADDED - ANOMALY SYSTEM
+
+10 unique anomalies unlocked from the start:
+
+1. BLACKOUT
+   - Dark fog, but Joker vision is very low
+
+2. NOTHING TO HIDE
+   - Joker chases you permanently, but all doors are open
+
+3. DEATH TRAP
+   - 110 traps total in 6 minutes
+
+4. STONE COLD
+   - 2 stones, throw them at precise targets to reset the timer
+
+5. DEAF JOKER IN MIRRORLAND
+   - Joker hears nothing, but map and controls are mirrored
+
+6. DOUBLE TROUBLE
+   - The Joker brought his twin brother
+
+7. SQUAT GAME
+   - Crouching makes the Joker faster, but you can jump
+
+8. LSD
+   - Interaction distance 4m + random visual effects
+
+9. ONE DIFFICULTY
+   - Random difficulty changes + only one life
+
+10. FREEZE TAG
+    - You are faster, but if the Joker spots you, you are frozen for 3 seconds
+
+---
+
+ADDED - LOCALIZATION
+
+Full support for 6 languages:
+
+- French (fr)
+- English (en)
+- Spanish (es)
+- German (de)
+- Italian (it)
+- Russian (ru)
+
+Automatic system language detection.
+Language saved in PlayerPrefs.
+
+---
+
+ADDED - UI / UX
+
+- F1 Menu with 9 tabs (Player, Time, Joker, Utils, ESP, Visuals, Audio, Items, Options)
+- Purple eye button for Anomaly Menu
+- Welcome Message (Read-Me with Steam username)
+- Tips system (76 phrases)
+- Quick buttons (Menu, Speed, Gravity, Noclip)
+- Custom menu background support (menu_bg.png/jpg)
+- Custom mod logo support (logo.png/jpg)
+- Custom game logo replacement (game_logo.png)
+
+---
+
+ADDED - CUSTOM MUSIC
+
+- Support for .ogg and .wav files
+- Folder: Mods/Music/
+- Playlist system (plays in order, loops at the end)
+- Shuffle mode (random track, no repeat)
+- Volume control
+- Pitch control (0.5x to 2x)
+- Speed control (0.5x to 2x)
+- Reset Pitch/Speed button
+- Reset Playlist button
+- M key to mute/unmute in-game
+
+---
+
+
+Bugs fixed on mod:
+
+1. Timer not stopping 
+2. "Disable AI" button not working (I removed this)
+3. "Find Joker Position" button removed
+4. Removed the size feature for the player and joker, because the game crashed and extremely buggy with them features (the modification of the size of the traps is still there) 
+5. Preset system (bugged)
+6. FOV conflict with binoculars
+7. Fog issue (replaced by Brightness)
+8. Tips not displaying correctly
+9. DEATH TRAP timer end
+10. STONE COLD timer end
+11. Anomalies could accumulate, now it's fixed
+12. Many bugs for Anomaly reset, now it's fixed
+
+---
+
+IMPROVED - MOD BEHAVIOR
+
+- Custom music playlist now correctly rotates through all tracks
+- BLACKOUT anomaly fog is disabled when using binoculars
+- Custom Controls no longer conflict with Speed Hack
